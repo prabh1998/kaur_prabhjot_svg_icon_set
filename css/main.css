@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+.hidden
+{
+	display: none;
+}
+
+.container 
+{ 
+	width: 100%;
+}
+
+
+#mainHeader
+{
+	font-size: 36px;
+	text-align: center;
+	color: #FF2E2B;
+	font-weight: bold;
+}
+
+.container h3
+{
+	font-size: 30px;
+	margin: 10px;
+	font-weight: bold;
+	text-align: center;
+	color: #EB6A9B;
+}
+
+.container p 
+{
+	font-size: 24px;
+	color: #15ABFF;
+	text-align: center;
+}
+
+#bread
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+	display: block;
+	
+}
+
+#cake
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+	display: block;
+}
+
+#choclate
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+}  
+
+#coffee
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+}
+
+#cone
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+}
+
+#cookie
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+}
+
+#cup
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 25%;
+}
+
+#donut
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+}
+
+#kettle
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+}
+
+
