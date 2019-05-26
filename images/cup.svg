@@ -1,0 +1,9 @@
+<svg id="ice-cream_cup" data-name="ice-cream cup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.5 100.75"><defs>
+	<style>
+		.cls-1{fill:#ffce53;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#000;stroke-miterlimit:10;stroke-width:3px;}.cls-2{fill:#fff;}.cls-3{fill:#b20404;}.cls-4{fill:none;}.cls-5{fill:#e5b241;}
+
+
+		#ice-cream_cup:hover .cls-3{fill:#FCA9A4;}
+		#ice-cream_cup:hover .cls-1{fill:#366B00;}
+	</style>
+	</defs><title>cup</title><path class="cls-1" d="M37.58,81.28a58.36,58.36,0,0,0,17.25,29.64H74.92S92.08,99.14,92.83,81.28Z" transform="translate(-35.79 -11.67)"/><path class="cls-2" d="M37.58,81.28V68.42s2.79-9.75,10.65-13.75h34.1S93.58,61.28,92.83,68V81.28Z" transform="translate(-35.79 -11.67)"/><circle class="cls-3" cx="30.27" cy="68.17" r="17.83"/><circle class="cls-1" cx="24.91" cy="65.06" r="4.56"/><circle class="cls-1" cx="34.58" cy="65.06" r="4.56"/><circle class="cls-1" cx="30.02" cy="73.1" r="4.56"/><rect class="cls-2" x="14.54" y="34.33" width="30.25" height="8.67"/><line class="cls-4" x1="27.79" y1="25.25" x2="27.79" y2="33"/><rect class="cls-5" x="57.71" y="18.72" width="60.63" height="4.5" rx="2.25" ry="2.25" transform="translate(-38.2 6.16) rotate(-11.41)"/><line class="cls-4" x1="20.18" y1="5.76" x2="24.74" y2="24.42"/><line class="cls-4" x1="27.63" y1="5.73" x2="31.13" y2="22.38"/><line class="cls-4" x1="34.41" y1="5.73" x2="37.38" y2="20.42"/></svg>
